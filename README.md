@@ -8,4 +8,5 @@ Projeto prático visando a prática das tecnologias estudadas.
     - HTML
     - CSS
     - BootStrap
-    - JavaScrip
+    - JavaScript
+    
