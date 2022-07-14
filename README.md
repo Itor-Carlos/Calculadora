@@ -1,7 +1,7 @@
 # Calculadora
 
 
-Projeto prático visando a prática das tecnologias estudadas.
+Projeto prático visando a prática das tecnologias estudadas até o momento
 
 
  Tecnologias usadas:
